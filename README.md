@@ -27,7 +27,7 @@ Photo by <a href="https://unsplash.com/@tlmn?utm_content=creditCopyText&utm_medi
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neternefer&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-## 📡 Contact me:
+## 📡 Contact me
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nodzynska@gmail.com?subject=Hello%20Anna,%20From%20Github) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/neternefer) &nbsp;
 
