@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@tlmn?utm_content=creditCopyText&utm_medi
 - 💻 I'm currently working as a __Junior IT Specialist__
 - 📚 I'm currently learning about __Networks__
 - 📝 I'm interested in the __APIs__ and __Test Automation__ 
-- 🏆 I'm striving to increase my [GitHub stats rating](#-🏆-my-stats) by participating in group projects
+- 🏆 I'm striving to increase my GitHub stats rating by participating in group projects
 - 🏺 Fun fact: I studied archaeology and tend to inspect any suspicious looking rocks
 - 🎮 I'm currently playing Lord of the Rings Online
 
