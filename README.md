@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Hello World, I'm Anna!](banner.jpg)
-Photo by <a href="https://unsplash.com/@tlmn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Til Man</a> on <a href="https://unsplash.com/photos/green-tree-beside-yellow-building-Gq065gwBJiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Screenshot from <a href="https://www.tentonhammer.com/articles/gondor-and-more-in-dev-play-session-with-lotro-s-update-14">TenTonHammer</a>
   
 <!--
 [![Website](https://skillicons.dev/icons?i=html)](/) &nbsp;-->
@@ -14,7 +14,6 @@ Photo by <a href="https://unsplash.com/@tlmn?utm_content=creditCopyText&utm_medi
 - 📝 I'm interested in the __APIs__ and __Test Automation__ 
 - 🏆 I'm striving to increase my GitHub stats rating by participating in group projects
 - 🏺 Fun fact: I studied archaeology and tend to inspect any suspicious looking rocks
-- 🎮 I'm currently playing Lord of the Rings Online
 
 ## 💻 My Tech Stack
 
