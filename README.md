@@ -7,12 +7,12 @@ Photo by<a href="https://unsplash.com/@alexblock?utm_source=unsplash&utm_medium=
 
 ## 👋 Hello, I'm Anna
 I have an interdisciplinary background spanning humanities research, translation work, and IT foundations. This GitHub will
-be used primarily to document focused learning projects at the intersection of technology, data, and cultural heritage.
+be used primarily for learning projects at the intersection of technology, data, and cultural heritage.
 
 - 💻 I'm focused on building practical skills in __Data Analysis__ 
 - 📚 I'm currently reviewing __Python__ and __SQL__ 
 - 📝 I'm interested in  __Digital Humanities__ and responsible use of __AI__ in research-oriented contexts
-- 🏆 I want to participate in __Cultural Heritage Digitisation__ projects for better accessibility, research and learning opportunities
+- 🏆 I want to participate in __Cultural Heritage Digitisation__ projects 
 - 🏺 Fun fact: I studied archaeology and tend to inspect any suspicious-looking rocks
 
 ## 💻 My Tech Stack
